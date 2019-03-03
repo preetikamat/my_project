@@ -1,8 +1,8 @@
 #include<stdio.h>
-void add()
+void sub()
 {
 printf("adding two numbers");
 void main()
 {
-add();
+sub();
 }
